@@ -1,6 +1,17 @@
 # 🤖 CODTECH AI Internship Project
 
 This repository contains solutions for the **CODTECH Artificial Intelligence Internship**, which includes 4 mandatory tasks. Each task demonstrates a key AI capability using Python.
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: DEEPAKMANI V
+
+*INTERN ID*: CT1MTDF2732
+
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
 
 ---
 
